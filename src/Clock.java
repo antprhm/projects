@@ -6,7 +6,7 @@ import java.util.Calendar;
 import static java.lang.Math.*;
 
 public class Clock extends JFrame implements ActionListener {
-    public int xc = 100;
+    public int xc = 200;
     public int yc = 200;
     public int r = 100;
 
